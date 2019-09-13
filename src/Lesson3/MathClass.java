@@ -15,7 +15,7 @@ public class MathClass {
         double y = 8.9876;
         System.out.println(Math.round(y));  //9
         System.out.println("The bigger number is " + Math.max(x, y)); //max = highest
-        
+         System.out.println("The smaller number is " + Math.min(x, y)); //max = highest
         
         // Randoom class: We used to go: Random r = new Random(); r.next()
         System.out.println("Here is a random number :" + Math.random()); //0 and 1
